@@ -92,4 +92,4 @@ Released under the
 [MIT License](https://choosealicense.com/licenses/mit/).
 
 ## Acknowledgments
-Using OpenAI's GPT-4 and Text to speech API, as well as Google's Speech Recognition API, to power the Prism.ai.
+Using OpenAI's GPT-4 and Text to speech API, as well as Google's Speech Recognition API, to power Prism.ai.
