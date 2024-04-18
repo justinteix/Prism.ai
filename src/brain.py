@@ -1,4 +1,3 @@
-from pathlib import Path
 from openai import OpenAI
 import os
 import speech_recognition as sr
