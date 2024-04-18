@@ -3,19 +3,19 @@
 Prism.ai is an AI-powered home assistant that leverages the advanced capabilities of GPT-4 to provide a smarter, more efficient home assistant experience. Prism.ai offers insightful recommendations and answers to your queries using natural language processing.
 
 ## Table of Contents
-- [Features](##features)
+- [Features](#features)
 
-- [Installation](##installation)
+- [Installation](#installation)
 
-- [Usage](##usage)
+- [Usage](#usage)
 
-- [Configuration](##configuration)
+- [Configuration](#configuration)
 
-- [Contributing](##contributing)
+- [Contributing](#contributing)
 
-- [License](##license)
+- [License](#license)
 
-- [Acknowledgments](##acknowledgments)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 - **Voice Activation**: Prism.ai listens for the wake word "Hey Prism" and responds to your voice commands.
